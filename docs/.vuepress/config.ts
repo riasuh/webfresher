@@ -12,7 +12,7 @@ export default defineUserConfig({
 
    head: [
       ['link', { rel: 'icon', href: '/favicon.png' }],
-      ['meta', { name: 'theme-color', content: '#FDD85E' }],
+      ['meta', { name: 'theme-color', content: '#5efde5' }],
    ],
 
    locales: {
@@ -42,7 +42,7 @@ export default defineUserConfig({
             lastUpdatedText: 'Last Updated',
             navbar: [
                { text: 'Home', link: '/' },
-               { text: 'riasuh's Discord', link: 'https://discord.gg/' },
+               { text: 'riasuh Discord', link: 'https://discord.gg/' },
             ],
          },
       },
