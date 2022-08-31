@@ -48,9 +48,7 @@ export default defineUserConfig({
       },
    }),
    plugins: [
-      registerComponentsPlugin({
-         componentsDir: path.resolve(__dirname, 'components'),
-      }),
+
       mediumZoomPlugin({
          zoomOptions: {
             margin: 16,
