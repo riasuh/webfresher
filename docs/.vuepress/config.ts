@@ -48,7 +48,9 @@ export default defineUserConfig({
       },
    }),
    plugins: [
-
+      registerComponentsPlugin({
+         componentsDir: path.resolve(__dirname, 'components'),
+      }),
       mediumZoomPlugin({
          zoomOptions: {
             margin: 16,
@@ -65,5 +67,13 @@ export default defineUserConfig({
          after: () => '</div>',
       }),
    ],
-   
+   bundler: viteBundler({
+      viteOptions: {
+         resolve: {
+            alias: {
+               '@images': resolve(__dirname, '../.assets/images'),
+            },
+         },
+      },
+   }),
 });
