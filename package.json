@@ -1,0 +1,22 @@
+{
+  "name": "webproject",
+  "version": "1.0.0",
+  "description": "web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riasuh/webproject.git"
+  },
+  "author": "riasuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riasuh/webproject/issues"
+  },
+  "homepage": "https://github.com/riasuh/webproject#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
