@@ -4,8 +4,8 @@
   "description": "web page",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev wiki",
-    "docs:build": "vuepress build wiki"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
