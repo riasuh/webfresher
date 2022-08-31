@@ -1,2 +1,3 @@
-# One
-One
+# Home
+Welcome Gamers!
+![Logged In](~@images/flag.png)

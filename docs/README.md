@@ -5,7 +5,7 @@ tagline: Welcome to the riasuh Docs!
 description: Welcome to the riasuh Docs!
 actions:
   - text: Home →
-    link: ./one.md
+    link: ./home.md
     type: secondary
 footer: Copyright © riasuh 2022 | Licensed under CC BY-NC-SA 4.0
 

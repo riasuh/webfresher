@@ -1,5 +1,6 @@
-<template><div><h1 id="one" tabindex="-1"><a class="header-anchor" href="#one" aria-hidden="true">#</a> One</h1>
-<p>One</p>
+<template><div><h1 id="home" tabindex="-1"><a class="header-anchor" href="#home" aria-hidden="true">#</a> Home</h1>
+<p>Welcome Gamers!
+<img src="~@images/flag.png" alt="Logged In"></p>
 </div></template>
 
 
