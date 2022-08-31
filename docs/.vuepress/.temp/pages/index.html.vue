@@ -2,19 +2,14 @@
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 <div class="feature"><h2 style="pointer-events: none;">First</h2><ul>
-<li><RouterLink to="/rules.html">Rules</RouterLink></li>
+<li><RouterLink to="/one.html">Rules</RouterLink></li>
 <li><RouterLink to="/beginners-guide.html">Beginners Guide</RouterLink></li>
 <li><RouterLink to="/ranking-system.html">The Ranking System</RouterLink></li>
-<li><RouterLink to="/faq.html">Frequently Asked Questions</RouterLink></li>
 </ul>
 </div><div class="feature"><h2 style="pointer-events: none;">Ranking Resources</h2><ul>
 <li><RouterLink to="/ranking/how-to-rank-map.html">How to Rank my Map</RouterLink></li>
 <li><a href="./ranking/criteria">Ranking Criteria</a></li>
 <li><RouterLink to="/ranking/ranking-queue-rules.html">Ranking Queue Rules</RouterLink></li>
-<li><RouterLink to="/ranking/qat-guidelines.html">QAT Guidelines</RouterLink></li>
-<li><RouterLink to="/ranking/modding-queue-information.html">Modding Queue Information</RouterLink></li>
-<li><RouterLink to="/ranking/scoresaber-team-information.html">ScoreSaber Team Information</RouterLink></li>
-<li><RouterLink to="/ranking/ranking-unban-system-and-terms.html">Ranking Unban System and Terms</RouterLink></li>
 </ul>
 </div><div class="feature"><h2 style="pointer-events: none;">Other Resources</h2><ul>
 <li><RouterLink to="/about-us.html">About Us</RouterLink></li>

@@ -11,8 +11,8 @@ export default defineUserConfig({
    title: 'riasuh Docs',
 
    head: [
-      ['link', { rel: 'icon', href: '/favicon.png' }],
-      ['meta', { name: 'theme-color', content: '#5efde5' }],
+      ['link', { rel: 'icon', href: '/icon_32x32.png' }],
+      ['meta', { name: 'theme-color', content: '#fa002a' }],
    ],
 
    locales: {
@@ -42,7 +42,7 @@ export default defineUserConfig({
             lastUpdatedText: 'Last Updated',
             navbar: [
                { text: 'Home', link: '/' },
-               { text: 'riasuh Discord', link: 'https://discord.gg/' },
+               { text: 'riasuh Discord', link: 'https://discord.com/invite/6PRt4Ph' },
             ],
          },
       },

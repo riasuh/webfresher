@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"riasuh Docs\",\"description\":\"\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/favicon.png\"}],[\"meta\",{\"name\":\"theme-color\",\"content\":\"#5efde5\"}]],\"locales\":{\"/\":{\"lang\":\"en-US\",\"title\":\"riasuh Docs\"}}}")
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"riasuh Docs\",\"description\":\"\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/icon_32x32.png\"}],[\"meta\",{\"name\":\"theme-color\",\"content\":\"#fa002a\"}]],\"locales\":{\"/\":{\"lang\":\"en-US\",\"title\":\"riasuh Docs\"}}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
