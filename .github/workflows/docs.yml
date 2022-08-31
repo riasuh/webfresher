@@ -13,6 +13,6 @@ jobs:
               ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
               TARGET_REPO: riasuh/webproject
               TARGET_BRANCH: main
-              BUILD_SCRIPT: npm install && npm run wiki:build
-              BUILD_DIR: wiki/.vuepress/dist
+              BUILD_SCRIPT: npm install && npm run docs:build
+              BUILD_DIR: docs/.vuepress/dist
               CNAME:
