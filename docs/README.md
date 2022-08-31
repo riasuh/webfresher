@@ -4,7 +4,7 @@ heroText: riasuh's Docs
 tagline: Welcome to the riasuh Docs!
 description: Welcome to the riasuh Docs!
 actions:
-  - text: One →
+  - text: Home →
     link: ./one.md
     type: secondary
 footer: Copyright © riasuh 2022 | Licensed under CC BY-NC-SA 4.0
@@ -23,24 +23,23 @@ tags:
 
 ::: feature First
 
-* [Rules](./one.md)
-* [Beginners Guide](./beginners-guide.md)
-* [The Ranking System](./ranking-system.md)
+* [Home](./home.md)
+* [Two](./two.md)
+* [Three](./three.md)
 
 
 :::
 
-::: feature Ranking Resources
+::: feature Second
 
-* [How to Rank my Map](./ranking/how-to-rank-map.md)
-* [Ranking Criteria](./ranking/criteria)
-* [Ranking Queue Rules](./ranking/ranking-queue-rules.md)
+* [something](./ranking/default.md)
+
 
 :::
 
-::: feature Other Resources
+::: feature Third
 
-* [About Us](./about-us.md)
+* [About Me](./default.md)
 :::
 
 </div>
@@ -50,9 +49,6 @@ tags:
 <h2 class='noborder'>External Links</h2>
 <!-- markdownlint-enable MD033 -->
 
-* [Discord](https://discord.gg/scoresaber) - Join us on Discord
-* [Trello](https://trello.com/b/Jd9EdIml/scoresaber-development) - Track ScoreSaber development on Trello
-* [Canny](https://scoresaber.canny.io/) - Suggest a feature or submit bug reports
-* [Patreon](https://patreon.com/scoresaber) - Support us on Patreon ❤️
-* [Twitter](https://patreon.com/scoresaber) - Follow us on Twitter
-* [BSMG Wiki](https://bsmg.wiki/)
+* [Discord](https://discord.gg/scoresaber) - Join us on Discord!
+* [Twitter](https://twitter.com/riasuh_) - Follow my Twitter!
+* [Twitch](https://discord.com/invite/6PRt4Ph) - Follow my Twitch!

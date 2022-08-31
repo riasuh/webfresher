@@ -2,29 +2,24 @@
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 <div class="feature"><h2 style="pointer-events: none;">First</h2><ul>
-<li><RouterLink to="/one.html">Rules</RouterLink></li>
-<li><RouterLink to="/beginners-guide.html">Beginners Guide</RouterLink></li>
-<li><RouterLink to="/ranking-system.html">The Ranking System</RouterLink></li>
+<li><RouterLink to="/home.html">Home</RouterLink></li>
+<li><RouterLink to="/two.html">Two</RouterLink></li>
+<li><RouterLink to="/three.html">Three</RouterLink></li>
 </ul>
-</div><div class="feature"><h2 style="pointer-events: none;">Ranking Resources</h2><ul>
-<li><RouterLink to="/ranking/how-to-rank-map.html">How to Rank my Map</RouterLink></li>
-<li><a href="./ranking/criteria">Ranking Criteria</a></li>
-<li><RouterLink to="/ranking/ranking-queue-rules.html">Ranking Queue Rules</RouterLink></li>
+</div><div class="feature"><h2 style="pointer-events: none;">Second</h2><ul>
+<li><RouterLink to="/ranking/default.html">something</RouterLink></li>
 </ul>
-</div><div class="feature"><h2 style="pointer-events: none;">Other Resources</h2><ul>
-<li><RouterLink to="/about-us.html">About Us</RouterLink></li>
+</div><div class="feature"><h2 style="pointer-events: none;">Third</h2><ul>
+<li><RouterLink to="/default.html">About Me</RouterLink></li>
 </ul>
 </div></div>
 <hr>
 <h2 class='noborder'>External Links</h2>
 <!-- markdownlint-enable MD033 -->
 <ul>
-<li><a href="https://discord.gg/scoresaber" target="_blank" rel="noopener noreferrer">Discord<ExternalLinkIcon/></a> - Join us on Discord</li>
-<li><a href="https://trello.com/b/Jd9EdIml/scoresaber-development" target="_blank" rel="noopener noreferrer">Trello<ExternalLinkIcon/></a> - Track ScoreSaber development on Trello</li>
-<li><a href="https://scoresaber.canny.io/" target="_blank" rel="noopener noreferrer">Canny<ExternalLinkIcon/></a> - Suggest a feature or submit bug reports</li>
-<li><a href="https://patreon.com/scoresaber" target="_blank" rel="noopener noreferrer">Patreon<ExternalLinkIcon/></a> - Support us on Patreon ❤️</li>
-<li><a href="https://patreon.com/scoresaber" target="_blank" rel="noopener noreferrer">Twitter<ExternalLinkIcon/></a> - Follow us on Twitter</li>
-<li><a href="https://bsmg.wiki/" target="_blank" rel="noopener noreferrer">BSMG Wiki<ExternalLinkIcon/></a></li>
+<li><a href="https://discord.gg/scoresaber" target="_blank" rel="noopener noreferrer">Discord<ExternalLinkIcon/></a> - Join us on Discord!</li>
+<li><a href="https://twitter.com/riasuh_" target="_blank" rel="noopener noreferrer">Twitter<ExternalLinkIcon/></a> - Follow my Twitter!</li>
+<li><a href="https://discord.com/invite/6PRt4Ph" target="_blank" rel="noopener noreferrer">Twitch<ExternalLinkIcon/></a> - Follow my Twitch!</li>
 </ul>
 </div></template>
 
