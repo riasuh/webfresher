@@ -6,6 +6,12 @@ import { path } from '@vuepress/utils';
 import { resolve } from 'path';
 import { defaultTheme, defineUserConfig } from 'vuepress';
 
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
 const isProd = process.env.NODE_ENV === 'production';
 export default defineUserConfig({
    title: 'riasuh Docs',
