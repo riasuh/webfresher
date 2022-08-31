@@ -11,8 +11,8 @@ jobs:
            uses: jenkey2011/vuepress-deploy@master
            env:
               ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-              TARGET_REPO: ScoreSaber/ScoreSaber-Wiki
-              TARGET_BRANCH: deployment
+              TARGET_REPO: riasuh/webproject
+              TARGET_BRANCH: main
               BUILD_SCRIPT: npm install && npm run wiki:build
               BUILD_DIR: wiki/.vuepress/dist
               CNAME:
