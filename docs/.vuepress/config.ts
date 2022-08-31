@@ -65,13 +65,5 @@ export default defineUserConfig({
          after: () => '</div>',
       }),
    ],
-   bundler: viteBundler({
-      viteOptions: {
-         resolve: {
-            alias: {
-               '@images': resolve(__dirname, '../.assets/images'),
-            },
-         },
-      },
-   }),
+   
 });
